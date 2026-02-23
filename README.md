@@ -32,9 +32,11 @@ pip install streamlit deepface opencv-python pillow tf-keras
 streamlit run app.py
 
 Usage
+
 Launch the app using the command above.
 
 Click the "Browse files" button or drag and drop a clear portrait image into the dropzone.
 
 The AI will scan the image and output the dominant emotion detected.
+
 
