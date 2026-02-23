@@ -20,13 +20,21 @@ This project is an AI-powered Facial Emotion Recognition application built with 
    ```bash
    git clone [https://github.com/Ammaratahir252/Syntecxhub_Emotion_Recognition_App.git](https://github.com/Ammaratahir252/Syntecxhub_Emotion_Recognition_App.git)
 2.Navigate to the project directory:
+
 cd Syntecxhub_Emotion_Recognition_App
+
 3.Install the required dependencies:
+
 pip install streamlit deepface opencv-python pillow tf-keras
+
 4.Run the application:
+
 streamlit run app.py
 
 Usage
 Launch the app using the command above.
+
 Click the "Browse files" button or drag and drop a clear portrait image into the dropzone.
+
 The AI will scan the image and output the dominant emotion detected.
+
