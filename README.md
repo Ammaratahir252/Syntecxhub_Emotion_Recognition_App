@@ -40,3 +40,4 @@ Click the "Browse files" button or drag and drop a clear portrait image into the
 The AI will scan the image and output the dominant emotion detected.
 
 
+
